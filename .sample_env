@@ -1,0 +1,3 @@
+#DISCOGS_APP_KEY=your_key
+#DISCOGS_APP_SECRET=your_secret
+FOO=BAR

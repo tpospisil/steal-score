@@ -1,0 +1,2 @@
+discogs_app_key: <%= ENV['DISCOGS_APP_KEY'] %>
+discogs_app_secret: <%= ENV['DISCOGS_APP_SECRET'] %>
