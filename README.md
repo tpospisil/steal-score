@@ -1,13 +1,20 @@
-# README
+# Steal Score
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Setup
 
-Things you may want to cover:
+### Dependencies
 
-* Ruby version
+I highly recommend using [`asdf`](https://asdf-vm.com/) as your version manager (with [`asdf-ruby`](https://github.com/asdf-vm/asdf-ruby)) so you don't have to deal with the bullshit that inevitably comes up when trying to use `rvm` or `rbenv`.
 
-* System dependencies
+Once installed, install `ruby-3.4.1`
+```
+asdf install ruby 3.4.1`
+```
+
+Install ruby gems using `bundler`
+```
+bundle install
+```
 
 * Configuration
 
