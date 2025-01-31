@@ -4,7 +4,7 @@
 
 ### Dependencies
 
-I highly recommend using [`asdf`](https://asdf-vm.com/) as your version manager (with [`asdf-ruby`](https://github.com/asdf-vm/asdf-ruby)) so you don't have to deal with the bullshit that inevitably comes up when trying to use `rvm` or `rbenv`.
+I highly recommend using [`asdf`](https://asdf-vm.com/) as your version manager (with [`asdf-ruby`](https://github.com/asdf-vm/asdf-ruby)) so you don't have to deal with the pain that inevitably comes with trying to use `rvm` or `rbenv`.
 
 Once installed, install `ruby-3.4.1`
 ```
