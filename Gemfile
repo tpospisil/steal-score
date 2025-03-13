@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "discogs-wrapper"
 gem "puma", ">= 5.0"
-gem "rails", "~> 8.0.1"
+gem "rails", "~> 8.0.2"
 gem "rubocop"
 gem "sqlite3", ">= 2.1"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
